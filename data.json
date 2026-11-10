@@ -1,0 +1,58 @@
+{
+ "settings": {
+  "name": "Nanma’s little makes",
+  "tagline": "Handmade with love, one stitch at a time",
+  "contact": "",
+  "currency": "AUD",
+  "perPage": 8,
+  "perPageOptions": "4, 8, 12, 24",
+  "adminPerPage": 10,
+  "notice": "",
+  "stripeLink": "",
+  "hero": "images/hero.jpg",
+  "categories": [
+   "Baby",
+   "Kids",
+   "Home",
+   "Seasonal"
+  ]
+ },
+ "products": [
+  {
+   "id": "s1",
+   "title": "Patchwork baby bib",
+   "price": 12,
+   "cat": "Baby",
+   "stock": 5,
+   "desc": "Soft cotton bib with a scalloped edge and a little heart. (Sample listing — edit or delete me!)",
+   "link": "",
+   "status": "live",
+   "featured": true,
+   "imgs": []
+  },
+  {
+   "id": "s2",
+   "title": "Mini patchwork stocking",
+   "price": 18,
+   "cat": "Seasonal",
+   "stock": 3,
+   "desc": "A sweet pastel stocking, lovingly stitched. (Sample listing)",
+   "link": "",
+   "status": "live",
+   "featured": false,
+   "imgs": []
+  },
+  {
+   "id": "s3",
+   "title": "Fabric bunting (2m)",
+   "price": 25,
+   "cat": "Home",
+   "stock": "",
+   "desc": "Made to order in your choice of pastel fabrics. (Sample listing)",
+   "link": "",
+   "status": "live",
+   "featured": false,
+   "imgs": []
+  }
+ ]
+}
